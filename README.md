@@ -1,7 +1,7 @@
 # Coputers-Networks-2-workshop
 Workshop with Cisco Tracer in Computers Networks
 ##
-Topic:OSPF algorithm , Access List, Nat
+Topic:OSPF algorithm , Access List && Nat
 ##
 Issues:
 1) Implement the topology with the software provided. In cases where no IP is given, use the software with the software you have provided.addresses are not given, they must be calculated by you and assigned to the corresponding interfaces of the routers. Note that the IP addresses provided correspond to the IPs of the
